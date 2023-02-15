@@ -3,7 +3,7 @@ Hey, I'm Chris Li. Welcome! 👋
 Featured Projects:
 Fli-Kix - frontend application using JavaScript, React and vanilla CSS. Application allows users to customize the color pallet of a Nike AirForce Max, save changes to a gallery and purchase their designs. Implemented cull CRUS with backend database using node server. Dynamically manipulated SVG and polygon elements and converting DOM elements to images using a dataURL.
 
-<a href="https://fli-kix.netlify.app/"><img src="" title="fli kix" alt="fli kix gif"/></a>
+<a href="https://fli-kix.netlify.app/"><img src="./ezgif.com-gif-maker (1).gif" title="fli kix" alt="fli kix gif"/></a>
 
 xylrSphere - fullstack application using JS, React, Bootstrap, Ruby and Ruby on Rails. Application allows users to buy and sell NFTs off-chain. Implemented user authentication and password encryption using BCrypt. Simulated live pricing rendered using Chart.js. Stripe integration to process payments in order to top up cryptocurrency for purchasing NFTs. Implemented background jobs that would simulate pricing.
 
