@@ -1,6 +1,7 @@
 Hey, I'm Chris Li. Welcome! 👋
 
-Featured Projects:
+<em>Featured Projects:</em>
+
 Fli-Kix - frontend application using JavaScript, React and vanilla CSS. Application allows users to customize the color pallet of a Nike AirForce Max, save changes to a gallery and purchase their designs. Implemented cull CRUS with backend database using node server. Dynamically manipulated SVG and polygon elements and converting DOM elements to images using a dataURL.
 
 <a href="https://fli-kix.netlify.app/"><img src="./ezgif.com-gif-maker.gif" title="fli kix" alt="fli kix gif"/></a>
