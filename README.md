@@ -6,17 +6,7 @@ Fli-Kix - frontend application using JavaScript, React and vanilla CSS. Applicat
 
 <a href="https://fli-kix.netlify.app/"><img src="./ezgif.com-gif-maker.gif" title="fli kix" alt="fli kix gif"/></a>
 
-🔭 I’m currently working on a Fitness Competition Game / Application <br>
-🌱 I’m currently learning Python and Data Structures & Algorithms <br>
-🤔 I’m looking for help with Web3 tech stack <br>
-💬 Ask me about Finance, Australia, Cycling, deep & meaningful philosophical stuff.. <br>
-📫 How to reach me: LinkedIn: <br>
-<a href="https://medium.com/@chris.lty07"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" title="medium" alt="medium"/></a>
-<a href="https://www.linkedin.com/in/chris-t-li/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn"/></a>
-
 <!--
-
-
 - 🔭 I’m currently working on a Fitness Competition Game / Application
 - 🌱 I’m currently learning Python and Data Structures & Algorithms
 - 👯 I’m looking to collaborate on 
@@ -30,6 +20,15 @@ Fli-Kix - frontend application using JavaScript, React and vanilla CSS. Applicat
 </div>
 About Me :
 Software Engineer | Banking & Finance | Cycling Enthusiast | Classically Trained Violinist
+
+
+🔭 I’m currently working on a Fitness Competition Game / Application <br>
+🌱 I’m currently learning Python and Data Structures & Algorithms <br>
+🤔 I’m looking for help with Web3 tech stack <br>
+💬 Ask me about Finance, Australia, Cycling, deep & meaningful philosophical stuff.. <br>
+📫 How to reach me: LinkedIn: <br>
+<a href="https://medium.com/@chris.lty07"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" title="medium" alt="medium"/></a>
+<a href="https://www.linkedin.com/in/chris-t-li/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn"/></a>
 
 :hammer_and_wrench: Languages and Tools :
 <div align="center">
