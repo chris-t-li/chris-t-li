@@ -6,19 +6,22 @@ Fli-Kix - frontend application using JavaScript, React and vanilla CSS. Applicat
 
 <a href="https://fli-kix.netlify.app/"><img src="./ezgif.com-gif-maker.gif" title="fli kix" alt="fli kix gif"/></a>
 
-xylrSphere - fullstack application using JS, React, Bootstrap, Ruby and Ruby on Rails. Application allows users to buy and sell NFTs off-chain. Implemented user authentication and password encryption using BCrypt. Simulated live pricing rendered using Chart.js. Stripe integration to process payments in order to top up cryptocurrency for purchasing NFTs. Implemented background jobs that would simulate pricing.
-
-<a href="https://xylrsphere.onrender.com/"><img src="./ezgif.com-gif-maker (1).gif" title="xylrsphere" alt="xylrsphere img"/></a>
+🔭 I’m currently working on a Fitness Competition Game / Application
+🌱 I’m currently learning Python and Data Structures & Algorithms
+🤔 I’m looking for help with Web3 tech stack
+💬 Ask me about Finance, Australia, Cycling, deep & meaningful philosophical stuff..
+📫 How to reach me: LinkedIn: <a href="https://medium.com/@chris.lty07"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" title="medium" alt="medium"/></a>
+<a href="https://www.linkedin.com/in/chris-t-li/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn"/></a>
 
 <!--
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on a Fitness Competition Game / Application
+- 🌱 I’m currently learning Python and Data Structures & Algorithms
+- 👯 I’m looking to collaborate on 
+- 🤔 I’m looking for help with Web3 tech stack
+- 💬 Ask me about Finance, Australia, Cycling, deep & meaningful philosophical stuff..
+- 📫 How to reach me: LinkedIn: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -49,8 +52,7 @@ Software Engineer | Banking & Finance | Cycling Enthusiast | Classically Trained
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chris-t-li&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://medium.com/@chris.lty07"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" title="medium" alt="medium"/></a>
-<a href="https://www.linkedin.com/in/chris-t-li/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn"/></a>
+
 
 
 </div>
