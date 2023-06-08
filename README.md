@@ -23,7 +23,7 @@ Software Engineer | Banking & Finance | Cycling Enthusiast | Classically Trained
 
 
 🔭 I’m currently working on a Fitness Competition Game / Application <br>
-🌱 I’m currently learning Python and Data Structures & Algorithms <br>
+🌱 I’m currently learning Docker, Redis, Django <br>
 🤔 I’m looking for help with Web3 tech stack <br>
 💬 Ask me about Finance, Australia, Cycling, deep & meaningful philosophical stuff.. <br>
 📫 How to reach me: LinkedIn: <br>
